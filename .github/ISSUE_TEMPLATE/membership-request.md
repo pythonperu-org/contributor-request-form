@@ -4,7 +4,7 @@ about: Describe this issue template's purpose here.
 title: ''
 labels: member-request
 assignees: ''
-
+title: 'Membership Request - [Your Name]'
 ---
 
 **Solicitud de membresía a la organización de Github**
