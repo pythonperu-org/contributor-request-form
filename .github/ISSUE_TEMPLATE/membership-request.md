@@ -9,8 +9,6 @@ assignees: ''
 
 **Solicitud de membresía a la organización de Github**
 
-Nombre de usuario de GitHub: [inserta aquí el nombre de usuario]
-
 **Términos y Condiciones**
 
 Al solicitar ser colaborador, aceptas los términos y condiciones de nuestra organización.
