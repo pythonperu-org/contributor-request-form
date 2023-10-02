@@ -15,4 +15,4 @@ jobs:
 
     - name: Procesar solicitud
       run: |
-        print("processing")
+        python procesar_solicitud.py --issue ${{ github.event.issue.number }} --github-username ${{ github.event.issue.body }}
